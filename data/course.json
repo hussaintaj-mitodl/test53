@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test53"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test53"
+  },
+  "course_title": "title",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test53"
+  },
+  "learning_resource_types": [],
+  "site_uid": "009affa8-1f20-402e-a3f4-6d8b578d3c80",
+  "site_short_id": "test53"
+}
